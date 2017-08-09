@@ -1,6 +1,6 @@
 import  urllib2
 from goose import Goose
-from nest.items import ArticleItem
+from items import ArticleItem
 from datetime import datetime
 
 

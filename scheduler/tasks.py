@@ -21,7 +21,7 @@ def schedule_all_spiders(job_dir):
 
 @app.task(ignore_result=True)
 def schedule_newyork_times_spider(job_dir):
-	_schedule_spider('newyork_times_rss',job_dir)
+	_schedule_spider('indiatoday_rss',job_dir)
 
 def _schedule_spider(spider_name,job_dir):
 	payload = { 'project':'default' ,'spider':spider_name ,'setting':'JOBDIR='+ job_dir + '/' + spider_name }

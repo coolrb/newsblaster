@@ -27,12 +27,12 @@ app = Celery('scheduler.celery',
 app.conf.update(CELERYBEAT_SCHEDULE = {
                         'every-30-minutes-nyc_times': {
                         'task': 'scheduler.tasks.schedule_newyork_times_spider',
-			                  'schedule': timedelta(minutes=10),
+			                  'schedule': timedelta(minutes=5),
                         'args': (job_dir,)
                                         },
                         'every-hour-all-spiders': {
                         'task': 'scheduler.tasks.schedule_all_spiders',
-			                  'schedule': timedelta(hours=3),
+			                  'schedule': timedelta(hours=1),
                         'args': (job_dir,)
                                         },
                         'every-1-hour-do-clustering': {

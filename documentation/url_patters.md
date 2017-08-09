@@ -24,8 +24,12 @@ http://www.nytimes.com/2014/09/17/dining/australian-chardonnays-rated-by-the-win
 http://www.nytimes.com/2014/09/12/technology/documents-unsealed-in-yahoos-case-against-us-data-requests.html?ref=technology
 
 
+URL Pattern For Times Of India(http://timesofindia.indiatimes.com/)
 
-
-
-
-
+http://www.gadgetsnow.com/tech-news/google-hires-16-year-old-chandigarh-boy-from-government-school-at-an-annual-salary-of-rs-1-44-crore/articleshow/59860122.cms?utm_source=toiweb&utm_medium=referral&utm_campaign=toiweb_hptopnews
+http://timesofindia.indiatimes.com/india/western-media-favours-india-says-chinese-media/articleshow/59859216.cms
+http://www.gadgetsnow.com/tech-news/h-1b-visas-us-report-refutes-the-view-that-visa-holders-not-highly-qualified/articleshow/59859067.cms
+http://timesofindia.indiatimes.com/business/india-business/earning-abroad-know-the-tax-rules/articleshow/59853748.cms
+http://timesofindia.indiatimes.com/india/this-black-box-ejects-helps-save-vital-data/articleshow/59860611.cms
+http://timesofindia.indiatimes.com/india/in-a-first-no-left-candidates-for-rajya-sabha-seat-from-bengal/articleshow/59854935.cms
+http://timesofindia.indiatimes.com/india/no-information-on-missing-indians-syrian-envoy/articleshow/59859378.cms
